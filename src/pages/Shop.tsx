@@ -8,7 +8,7 @@ import heroShop from "@/assets/hero-shop-premium.jpg";
 import paSystemImage from "@/assets/pa-system.jpg";
 import wirelessMicImage from "@/assets/wireless-mic-set.jpg";
 import ledLightsImage from "@/assets/led-stage-lights.jpg";
-import djControllerImage from "@/assets/dj-controller.jpg";
+import djControllerImage from "@/assets/IMG-20251023-WA0023.jpg";
 import studioEquipmentImage from "@/assets/IMG-20251023-WA0023.jpg";
 
 export default function Shop() {
