@@ -4,7 +4,7 @@ import { Card, CardContent, CardHeader, CardTitle } from "@/components/ui/card";
 import { Button } from "@/components/ui/button";
 import { Badge } from "@/components/ui/badge";
 import { Music, Mic, Calendar, Award, Users, Volume2 } from "lucide-react";
-import heroDj from "@/assets/hero-dj-premium.jpg";
+import heroDj from "@/assets/IMG-20251029-WA0063.jpg";
 
 export default function DJ() {
   const services = [
@@ -263,7 +263,7 @@ export default function DJ() {
               </CardHeader>
               <CardContent>
                 <img 
-                  src="/assets/certifications/nollywood-permit.png" 
+                  src="@/assets/IMG-20251029-WA0063.jpg" 
                   alt="Nollywood Work Permit"
                   className="w-full max-w-md mx-auto rounded-lg"
                 />
