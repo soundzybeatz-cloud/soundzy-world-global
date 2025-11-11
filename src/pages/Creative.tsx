@@ -8,7 +8,7 @@ import { Link } from 'react-router-dom';
 import heroCreative from "@/assets/hero-creative-premium.jpg";
 
 // Portfolio images
-import portfolioWebDesign from "@/assets/portfolio-web-design.jpg";
+import portfolioWebDesign from "@/assets/portfolio-logo-design.jpg";
 import portfolioBrandIdentity from "@/assets/portfolio-brand-identity.jpg";
 import portfolioVideoProduction from "@/assets/portfolio-video-production.jpg";
 import portfolioPrintDesign from "@/assets/portfolio-print-design.jpg";
