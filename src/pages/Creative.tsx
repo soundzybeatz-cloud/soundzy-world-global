@@ -48,7 +48,7 @@ export default function Creative() {
       image: portfolioBrandIdentity
     },
     {
-      category: "Video Production",
+      cas/imagideo Production",
       title: "Music Video",
       description: "Professional music video production and editing",
       image: portfolioVideoProduction
@@ -250,7 +250,7 @@ export default function Creative() {
             
             <div className="flex justify-center">
               <img 
-                src="/assets/images/services-banner.png" 
+                src="assets/IMG-20251029-WA0063.jpg" 
                 alt="Soundzy World Global Services"
                 className="max-w-full h-auto rounded-lg shadow-lg"
               />
