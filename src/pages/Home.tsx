@@ -36,7 +36,7 @@ export default function Home() {
                 icon: <Headphones className="h-8 w-8" />,
                 title: "Professional Entertainment & DJ Services",
                 description: "Wedding DJs from ₦50,000 • Corporate Events from ₦80,000 • Complete sound, lighting & stage setup included",
-                image: "/images/dj-equipment.jpg",
+                image: "/images/G5lznt3WcAAJVK0.jpeg",
                 price: "From ₦50,000",
                 whatsapp: "https://wa.me/2348166687167?text=Hi!%20I%20need%20Entertainment%20and%20DJ%20services%20for%20my%20event.%20Can%20you%20send%20me%20pricing%20and%20packages?"
               },
