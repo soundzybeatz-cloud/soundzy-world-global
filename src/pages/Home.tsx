@@ -44,7 +44,7 @@ export default function Home() {
                 icon: <Palette className="h-8 w-8" />,
                 title: "Creative & Design Services",
                 description: "Logo design from ₦15,000 • Website development from ₦150,000 • Complete branding packages available",
-                image: "/images/creative-workspace.jpg",
+                image: "/images/G5lznt3WcAAJVK0.jpeg",
                 price: "From ₦15,000",
                 whatsapp: "https://wa.me/2348166687167?text=Hi!%20I%20need%20creative%20design%20services.%20Can%20you%20share%20your%20portfolio%20and%20pricing?"
               },
